@@ -60,8 +60,8 @@
   },
   "dependencies": {
     "@copilotkit/shared": "workspace:*",
-    "@langchain/community": "^0.0.53",
-    "@langchain/core": "^0.3.13",
+    "@langchain/community": "^1.1.14",
+    "@langchain/core": "^1.1.14",
     "@langchain/langgraph": "^0.2.44",
     "langchain": "^0.3.3",
     "zod": "^3.23.3"
